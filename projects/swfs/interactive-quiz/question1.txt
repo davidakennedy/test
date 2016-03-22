@@ -1,0 +1,11 @@
+myVariable=<p><b>Purchasing Power</b>: You are the Vice President of the Purchasing Department at GTCC and have final call on purchases. Although the college has a bidding policy, you just purchased five computers for $3500 from ABC Computer Company when similar computers at other companies with additional features were selling for $2500. Your son works at ABC and handled the sale.  He also received a commission.
+
+Was your decision to not take bids an ethical one and why?
+
+A. Yes, because helping family is always a good decision.
+
+B. Yes, because in helping my son, I’m treating him with dignity and respect.
+
+C. No, because I did not follow the college’s policies and fell into a situation with a conflict of interest.
+
+D. No, because I should have purchased the cheaper computers from a rival company.</p>

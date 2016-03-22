@@ -1,0 +1,7 @@
+myVariable=<p><b>Free Trip</b>: A contractor you hired has offered you free tickets to a big, upcoming concert. Should you accept the tickets?
+
+A. No, accepting the tickets is taking a gift and creates a conflict of interest.
+B. Yes, as long as I can get tickets for a few co-workers.
+C. Yes, as long as it’s only once.
+D. Yes, as long as I can get tickets to future events as well.
+</p>

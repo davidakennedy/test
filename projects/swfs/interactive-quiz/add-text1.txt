@@ -1,0 +1,11 @@
+myVariable=<p>Nearly half (49%) of American workers have witnessed at least one type of ethical misconduct in the workplace, according to a 2009 National Business Ethics Survey. 
+<ul><li>Company resource abuse 23 percent</li>
+<li>Abusive behavior 22 percent</li>
+<li>Lying to employees 19 percent</li>
+<li>Email or Internet abuse 18 percent</li>
+<li>Conflicts of interest 16 percent</li>
+<li>Discrimination 14 percent</li>
+<li>Lying to outside stakeholders 12 percent</li>
+<li>Employee benefit violations 11 percent</li>
+<li>Health or safety violations	 11 percent</li>
+<li>Employee privacy breach 10 percent</li></ul></p>

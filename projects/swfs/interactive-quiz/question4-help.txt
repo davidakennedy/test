@@ -1,0 +1,9 @@
+myVariable=<p>You should never receive or give unacceptable gifts.
+Examples of these include:
+<ul><li>receiving or giving gifts, entertainment, or trips from/to consultants, vendors and suppliers.</li>
+<li>accepting favors in return for your purchasing contract.</li></ul>
+When faced with situations like these, you should:
+<ul><li>respectfully decline gifts and/or favors.</li>
+<li>discuss the gift or favor with your manager.</li>
+<li>offer to pay your own way for meals, trips and entertainment.</li>
+<li>share the gift with the workplace.</li></ul></p>

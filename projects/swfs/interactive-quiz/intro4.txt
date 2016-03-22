@@ -1,0 +1,10 @@
+myVariable=<p><ol>
+<li>Avoid Conflicts of Interest: Often, these are decisions that place your personal interests against those of GTCC.</li>
+<li>Keep Your Hands Clean: Examples of “dirty” hands include: taking a bribe, lying on a timesheet and inappropriate use of a college credit card.</li>
+<li>Don’t Accept or Give Unacceptable Gifts: Taking or giving a gift to a vendor or contractor of GTCC or something similar is an example of this.</li>
+<li>Treat College Property with Respect: Never use college property for personal gain.</li>
+<li>Avoid Cyber-slacking: Examples of cyber-slacking forwarding email jokes or shopping online during work hours.</li>
+<li>Protect Our Assets (and yours!): An example would be leaving a student’s or staff member’s confidential information exposed, others could use or destroy it.</li>
+<li>Treat Everyone with Respect and Dignity: An example of this is making inappropriate comments of gestures to students or staff.</li>
+</ol>
+</p>

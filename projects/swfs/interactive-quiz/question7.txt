@@ -1,0 +1,7 @@
+myVariable=<p><b>Making Copies</b>: You are asked by your supervisor to make copies of a commercially produced workbook. You agree, but discover later that it’s a violation. Who is at fault?
+
+A. The supervisor to ordering the task to be done.
+B. The employee for carrying out the task.
+C. Neither, since this is not a violation.
+D. Both: the supervisor for asking for the task and the employee for completing it.
+</p>

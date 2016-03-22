@@ -1,0 +1,11 @@
+myVariable=<p>When faced with a difficult decision that you might be struggling with, use this simple technique. Ask yourself, Ethics, Please?
+
+Please stands for:
+
+P = Policies (Is it consistent with my organization’s policies and procedures?)
+L = Legal (Is it acceptable under the applicable laws and regulations?)
+E = Ethical (What is the right thing to do?)
+A = Action (Do my actions support my organization’s values?)
+S = Self (What will happen to me as a consequence of my actions?)
+E = Empathy (Do my actions consider the thoughts and needs of others?)
+</p>

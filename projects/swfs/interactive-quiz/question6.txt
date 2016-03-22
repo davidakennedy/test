@@ -1,0 +1,7 @@
+myVariable=<p><b>Just a Joke</b>: You’ve received a forwarded email joke from a friend. You want to forward it to some of your co-workers here at GTCC. Should you?
+
+A. No. A GTCC-furnished computer is for work and should not be used in non-work related matters.
+B. Yes, it’s just a joke and only takes a matter of seconds to forward.
+C. No, you should ask if your co-workers mind receiving those kind of emails first.
+D. Yes, but only if you send it to your supervisor as well.
+</p>

@@ -1,0 +1,9 @@
+myVariable=<p><b>Massage Therapy</b>: You are an instructor at GTCC working in the massage therapy department on a part-time basis.  You also own an aromatherapy business and some of your students request your products occasionally.  So you sell products to students during the workday.  You usually give them a small discount, plus you save a lot on gas money.
+
+Was your decision to sell products during the workday an ethical one and why?
+
+A.	Yes, because I’m not harming the college in any way.
+B.	No, because I am creating a conflict of interest between professional duties at the college and my business. Plus, I could potentially favor students who buy my products.
+C.	Yes, because I am exposing students not only on the proper techniques and products in massage therapy, but also how to run a small business.
+D.	No, because my students enjoy having a chance to buy my products before, during and after class.
+</p>

@@ -1,0 +1,7 @@
+myVariable=<p><b>Introduction</b>
+Welcome to Survivor: Ethics Island, where the faculty and staff at Guilford Technical Community College go to win $1 Million for surviving this small, non-descript island in the middle of the Pacific. Ok, so we don’t have $1 million for you, but you do need to survive. And to do that, you must know how to handle a few ethical dilemmas. 
+
+Answer questions right and you’ll get closer to escaping Ethics Island. However, miss too many, and you’ll wash back up on shore in no time.
+
+Be sure to explore the island for additional information about ethics in the workplace or click the Help button for a hint to the answer.
+</p>
