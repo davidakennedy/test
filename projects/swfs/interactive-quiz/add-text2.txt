@@ -1,1 +1,0 @@
-myVariable=<p>More than half of former employees took company data when they left, according to a Ponemon Institute survey in 2009. Among the reasons employees listed were getting another job, starting their own business or getting revenge.</p>

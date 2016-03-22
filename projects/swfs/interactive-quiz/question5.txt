@@ -1,7 +1,0 @@
-myVariable=<p><b>Quick Hire</b>: Your department needs to make a quickly hire an audio/visual specialist for an upcoming presentation. Your spouse is in the business and will offer a discounted price. What should you do?
-
-A. Make the hire. It will be nice to get a discounted price for the college.
-B. Make the hire not just because of the price, but because there’s no time to do anything else.
-C. Don’t make the hire. There might be more qualified candidates available.
-D. Don’t make the hire. Even with a discount, the hire will give the appearance of bias.
-</p>

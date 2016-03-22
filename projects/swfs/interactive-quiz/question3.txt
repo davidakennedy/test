@@ -1,9 +1,0 @@
-myVariable=<p><b>Best Friends</b>: There is a course that is very popular among students at the GTCC and you are the only faculty member who has the credentials to teach this class.  You know a couple of students will drop and there’s a waiting list consisting of about 10 students, but all of them have low placement scores.  Your best friend called today and told you that her daughter and niece are interested in taking this course this semester.  I know that they will do well in the course, so I told my friend to send them over to my office.  I will make an “exception” this time.
-
-This was an unethical decision. How could this better be handled in the future?
-
-A. You should make an exception all the time, and keep your policy consistent.
-B. You should work on eliminating the waiting list, so there is no conflict.
-C. You should not accept friends or relatives into your class without them following all the proper procedures. Without that, you create a conflict of interest.
-D. This is was right way to handle this decision.
-</p>

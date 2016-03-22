@@ -1,8 +1,0 @@
-myVariable=<p><b>A Little Vacation</b>: You plan events for GTCC, and frequently negotiate with hotels, restaurants and travel agencies.  One hotel recently offered you a free weekend stay for your entire family.  This would make for a nice vacation.  I agreed, but I had the hotel staff place the reservation in my husband’s name.
-
-Do you think your actions raise questions about the employee’s ethical philosophy?
-
-A. Yes, after evaluating the decision you realize that you’ve accepted a gift from a vendor associated with the college, which is against college policy. You decide to inform your manager immediately of your mistake.
-B. No, taking a weekend stay is not a big deal because it’s just a few days.
-C. Yes, only because you should have made the reservation in your name.
-D. No, after you evaluated you decision, you determined it was the proper one.</p>
